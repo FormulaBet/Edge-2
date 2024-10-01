@@ -2,13 +2,18 @@
 
 Repositório dedicado à Sprint 3 da matéria de Edge Computing & Computer Systems /n
 
-Para acessar os Dashboards com a minha última leitura acesse: http://15.228.199.49:1880/ui /n
+Para acessar os Dashboards com a minha última leitura acesse: http://15.228.199.49:1880/ui
+
 Caso os dados não estejam atualizando, é porquê eu não estou usando o sistema no momento
+
 Envie um email para leonardofarias.comercial@gmail.com que eu poderei fazer uma demonstração do sistema operando
 
 Integrantes:
+
 Leonardo de Farias - RM: 555211
+
 Giancarlo Cestarolli - RM: 555248
+
 Gustavo Laur - RM: 556603
 
 # Preparando ambiente
