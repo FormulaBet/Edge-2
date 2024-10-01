@@ -1,6 +1,6 @@
 # Edge-2
 
-Repositório dedicado à Sprint 3 da matéria de Edge Computing & Computer Systems /n
+## Repositório dedicado à Sprint 3 da matéria de Edge Computing & Computer Systems
 
 Para acessar os Dashboards com a minha última leitura acesse: http://15.228.199.49:1880/ui
 
@@ -8,7 +8,7 @@ Caso os dados não estejam atualizando, é porquê eu não estou usando o sistem
 
 Envie um email para leonardofarias.comercial@gmail.com que eu poderei fazer uma demonstração do sistema operando
 
-Integrantes:
+## Integrantes:
 
 Leonardo de Farias - RM: 555211
 
@@ -16,7 +16,7 @@ Giancarlo Cestarolli - RM: 555248
 
 Gustavo Laur - RM: 556603
 
-# Preparando ambiente
+## Preparando ambiente
 - Instalar o Arduino IDE 2
 - Vá para File → Preferences e copie e cole os seguintes links no espaço Additional Boards Manager URLs:
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
@@ -28,13 +28,13 @@ SparkFun MAX3010x Pulse and Proximity Sensor Libray by SparkFun Electronics
 - Não esqueça de substituir as credenciais de WiFi para utilizar o código
 - Caso queira utilizar o código em um projeto próprio, será necessário substituir as outras credenciais do mqtt nesta mesma parte(Entre as linhas 7 e 13)
 
-# Materiais:
+## Materiais:
 - Sensor MAX30102
 - Placa ESP32
 - Jumpers (cabos de conexão)
 - Protoboard (opcional, para facilitar a montagem)
 
-# Conexões 
+## Conexões 
 - MAX30102 VIN → 3.3V do ESP32
 - MAX30102 GND → GND do ESP32
 - MAX30102 SDA → Pino 21 (SDA) do ESP32
