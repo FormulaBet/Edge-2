@@ -2,6 +2,8 @@
 
 Repositório dedicado à Sprint 3 da matéria de Edge Computing & Computer Systems
 
+Para acessar os Dashboards com a minha última leitura acesse: http://15.228.199.49:1883/ui
+
 Integrantes:
 Leonardo de Farias - RM: 555211
 Giancarlo Cestarolli - RM: 555248
