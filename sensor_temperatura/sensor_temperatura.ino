@@ -4,9 +4,9 @@
 #include "MAX30105.h"  // Biblioteca do sensor MAX30102
 
 // Configurações - variáveis editáveis
-const char* default_SSID = "SEU_WIFI_AQUI"; // Nome da rede Wi-Fi
-const char* default_PASSWORD = "SUA_SENHA_WIFI_AQUI"; // Senha da rede Wi-Fi
-const char* default_BROKER_MQTT = "18.228.26.86"; // IP do Broker MQTT
+const char* default_SSID = "SEU_WIFI"; // Nome da rede Wi-Fi
+const char* default_PASSWORD = "SUA_SENHA_WIFI"; // Senha da rede Wi-Fi
+const char* default_BROKER_MQTT = "15.228.199.49"; // IP do Broker MQTT
 const int default_BROKER_PORT = 1883; // Porta do Broker MQTT
 const char* default_TOPICO_PUBLISH_HEART = "/sensor/max30102/heart"; // Tópico MQTT de envio de batimentos cardíacos
 const char* default_TOPICO_PUBLISH_SPO2 = "/sensor/max30102/spo2";  // Tópico MQTT de envio de SpO2
