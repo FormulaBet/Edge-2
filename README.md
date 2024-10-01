@@ -1,8 +1,8 @@
 # Edge-2
 
-Repositório dedicado à Sprint 3 da matéria de Edge Computing & Computer Systems
+Repositório dedicado à Sprint 3 da matéria de Edge Computing & Computer Systems /n
 
-Para acessar os Dashboards com a minha última leitura acesse: http://15.228.199.49:1880/ui
+Para acessar os Dashboards com a minha última leitura acesse: http://15.228.199.49:1880/ui /n
 Caso os dados não estejam atualizando, é porquê eu não estou usando o sistema no momento
 Envie um email para leonardofarias.comercial@gmail.com que eu poderei fazer uma demonstração do sistema operando
 
